@@ -30,3 +30,13 @@ The program shall time how long overall operation takes and how long the word co
 The program shall include any necessary instructions to properly run the program 
 
 The assignment shall be submitted through github 
+
+## Execution
+
+For default run:
+python3 MapReduce.py
+
+For custom input:
+python3 MapReduce.py --t #
+
+In which # represents any postive bigger than 1
