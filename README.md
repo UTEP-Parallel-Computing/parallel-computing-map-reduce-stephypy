@@ -39,4 +39,4 @@ python3 MapReduce.py
 For custom input:
 python3 MapReduce.py --t #
 
-In which # represents any postive bigger than 1
+In which # represents any positive number bigger than 1
